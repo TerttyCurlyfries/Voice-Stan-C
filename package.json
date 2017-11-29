@@ -1,0 +1,37 @@
+{
+    "author": "tertrachter@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "s.t.a.n.-voice",
+    "pebble": {
+        "displayName": "S.T.A.N. Voice",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/scott.png",
+                    "name": "IMAGE_BACKGROUND_PNG",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "fonts/RobotoCondensed-Regular.ttf",
+                    "name": "ROBOTO_CONDENSED_16",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "18af1827-aaf6-4276-9e50-b8be80efd36d",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
